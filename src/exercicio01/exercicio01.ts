@@ -27,3 +27,5 @@ export function quadradoForEach(numeros: number[]): number[] {
 
     return quadrados;
 }
+
+#ok
